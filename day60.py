@@ -6,3 +6,4 @@ df = pd.DataFrame({
 })
 
 st.write(df)
+print("2024010862 정석주")
